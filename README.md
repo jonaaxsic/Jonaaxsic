@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jonathan Rodriguez
 
-<!--
-**jonaaxsic/Jonaaxsic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Santiago de Chile 🇨🇱  
+🎓 Técnico en Ciberseguridad  
+💻 Analista Programador
 
-Here are some ideas to get you started:
+## 🧑 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me Gusta la Programacion soy Técnico en Ciberseguridad y Analista Programador.  
+Estudié en el Instituto Profesional IP Chile y cuento con más de 2 años de experiencia en el desarrollo de aplicaciones, soluciones web y manejo de bases de datos.
+
+Me encanta programar y aprender cosas nuevas. He trabajado con lenguajes como Java, C#, HTML, CSS, JavaScript, entre otros.
+---
+> 📫 Siempre dispuesto a colaborar y aprender algo nuevo.
