@@ -1,14 +1,14 @@
-<su># 👋 ¡Hola! Soy Jonathan Rodriguez
+<small># 👋 ¡Hola! Soy Jonathan Rodriguez
 
 📍 Santiago de Chile 🇨🇱  
 🎓 Técnico en Ciberseguridad  
 💻 Analista Programador
 
-<img src="foto.jpg" width="120" alt="Jonathan Rodriguez" align="right"/>
+
 
 ## 🧑 Sobre mí
 
-<small>Me gusta la programación. Soy Técnico en Ciberseguridad y Analista Programador.  
+<sub>Me gusta la programación. Soy Técnico en Ciberseguridad y Analista Programador.  
 Estudié en el Instituto Profesional IP Chile y cuento con más de 2 años de experiencia en el desarrollo de aplicaciones, soluciones web y manejo de bases de datos.</small>
 
 ---
