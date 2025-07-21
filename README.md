@@ -1,4 +1,4 @@
-<small># 👋 ¡Hola! Soy Jonathan Rodriguez
+<small>👋 ¡Hola! Soy Jonathan Rodriguez
 
 📍 Santiago de Chile 🇨🇱  
 🎓 Técnico en Ciberseguridad  
