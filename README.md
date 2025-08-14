@@ -1,4 +1,4 @@
-#👋 ¡Hola! Soy Jonathan Rodriguez
+# 👋 ¡Hola! Soy Jonathan Rodriguez
 
 📍 Santiago de Chile 🇨🇱  
 🎓 Técnico en Ciberseguridad  
