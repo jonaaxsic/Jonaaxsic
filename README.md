@@ -8,6 +8,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-jonaaxsic-black?logo=github)](https://github.com/jonaaxsic)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jonaaxsic&theme=tokyonight&hide_border=verdadero&border_radius=5&locale=es&short_numbers=verdadero&date_format=%5BY.%5Dn.j&card_width=500&card_height=210)](https://git.io/streak-stats)
+
+![Jonaaxsic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonaaxsic&theme=tokyonight&show_icons=true)
 ---
 
 # 🧑 Sobre mí
