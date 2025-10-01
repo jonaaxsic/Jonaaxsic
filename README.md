@@ -4,13 +4,13 @@
 🎓 Técnico en Ciberseguridad  
 💻 Analista Programador
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Jonaaxsic-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonaaxsic)
+
+--
 [![GitHub](https://img.shields.io/badge/GitHub-jonaaxsic-black?logo=github)](https://github.com/jonaaxsic)
 
 
-
-![Jonaaxsic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonaaxsic&theme=tokyonight&show_icons=true)
----
+--
 
 # 🧑 Sobre mí
 
