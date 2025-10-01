@@ -13,5 +13,5 @@ Estudié en el Instituto Profesional IACC y el Instituto Profesional IP Chile, c
 Me gusta programar y aprender cosas nuevas. He trabajado con varios lenguajes como Java, C#, HTML, CSS, JavaScript, entre otros.
 
 
-
-# 📫 Siempre dispuesto a colaborar y aprender algo nuevo.
+#
+ 📫 Siempre dispuesto a colaborar y aprender algo nuevo.
