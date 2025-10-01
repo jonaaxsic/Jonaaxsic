@@ -15,9 +15,9 @@ Me gusta programar y aprender cosas nuevas. He trabajado con varios lenguajes co
 ## 📋 Stats principales 👇
 ![Stats](https://github-readme-stats.vercel.app/api?username=Jonaaxsic&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-## 📚 Lenguajes más usados 
+## 📚 Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonaaxsic&theme=tokyonight&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonaaxsic&theme=tokyonight&hide_border=true&langs_count=8)
 
 #
  📫 Siempre dispuesto a colaborar y aprender algo nuevo.
