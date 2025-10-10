@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Jonathan Rodriguez
+## 👋 ¡Hola! Soy Jonathan Rodriguez
 
 📍 Santiago de Chile 🇨🇱  
 🎓 Técnico en Ciberseguridad  
@@ -17,7 +17,7 @@ Me gusta programar y aprender cosas nuevas. He trabajado con varios lenguajes co
 
 ## 📚 Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonaaxsic&theme=tokyonight&hide_border=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonaaxsic&theme=tokyonight&layout=donut-vertical&hide_border=true&langs_count=8)](https://github.com/Jonaaxsic)
 
 
 #
