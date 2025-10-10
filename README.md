@@ -23,7 +23,7 @@ Me gusta programar y aprender cosas nuevas. He trabajado con varios lenguajes co
 
 
 
-## 📚 Lenguajes que más uso hasta ahora 
+## 📚 Lenguajes de programacion mas uasados 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonaaxsic&theme=tokyonight&layout=donut-vertical&hide_border=true&langs_count=8)](https://github.com/Jonaaxsic)
 
