@@ -14,7 +14,7 @@ Me gusta programar y aprender cosas nuevas. He trabajado con varios lenguajes co
 
 ## 🛠️ Tech Stack & Herramientas Clave
 
-| Backend / Lenguajes | Frontend / Scripting | Bases de Datos | Herramientas |
+| Backend  | Frontend  | Bases de Datos | Herramientas |
 | :---: | :---: | :---: | :---: |
 | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C7892?style=for-the-badge&logo=phpmyadmin&logoColor=white) |
