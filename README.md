@@ -29,5 +29,4 @@ Me gusta programar y aprender cosas nuevas. He trabajado con varios lenguajes co
 
 
 ## 📫 ¡conversemos!
-Me encuentro **activamente en búsqueda de nuevos desafíos profesionales** en roles de desarrollo Full-Stack con foco en seguridad.
-Siempre estoy dispuesto a colaborar, contribuir y aprender algo nuevo.
+Me encuentro **activamente en búsqueda de nuevos desafíos profesionales** Siempre estoy dispuesto a colaborar, contribuir y aprender algo nuevo.
