@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jonaaxsic-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonaaxsic)
 
-## 🧑 Sobre mí
+## 🙍🏻‍♂️ Sobre mí
 
 Me gusta la programación. Soy Técnico en Ciberseguridad y Analista Programador.  
 Estudié en el Instituto Profesional IACC y el Instituto Profesional IP Chile, cuento con más de 2 años de experiencia en el desarrollo de aplicaciones web y manejo de bases de datos.</small>
@@ -23,10 +23,5 @@ Me gusta programar y aprender cosas nuevas. He trabajado con varios lenguajes co
 
 
 
-## 📚 Lenguajes de programacion mas uasados 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonaaxsic&theme=tokyonight&layout=donut-vertical&hide_border=true&langs_count=8)](https://github.com/Jonaaxsic)
-
-
-## 📫 ¡conversemos!
+## 📫 ¡Hablemos!
 Me encuentro **activamente en búsqueda de nuevos desafíos profesionales** Siempre estoy dispuesto a colaborar, contribuir y aprender algo nuevo.
