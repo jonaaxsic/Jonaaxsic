@@ -64,11 +64,11 @@ HTML • CSS • JavaScript
 
 ---
 
-### Pokédex Web
-Aplicación web interactiva para explorar Pokémon usando una API.
+### Taller Mecanico
+Proyecto: Gestión Lógica Taller Mecanico 
 
 Tecnologías:
-HTML • CSS • JavaScript
+MySQL • Visual Basic 
 
 ---
 
@@ -84,16 +84,11 @@ HTML • CSS • JavaScript
 
 ---
 
-## Actualmente aprendiendo
-
-- desarrollo backend
-- diseño de bases de datos
-- arquitectura de software
-- despliegue de aplicaciones web
-
----
 
 ## Contacto
 
 GitHub  
 https://github.com/jonaaxsic
+
+Email 
+jonathan.anonisar@gmail.com
