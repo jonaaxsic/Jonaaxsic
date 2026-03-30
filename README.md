@@ -1,13 +1,7 @@
 <h1 align="center">Hola, soy Jonathan Rodriguez</h1>
 
 <p align="center">
-Desarrollador Fullstack en formación • Desarrollo Web • Software
-</p>
-
-<p align="center">
-<a href="https://detailingstreet.pages.dev/">Portafolio</a> •
-<a href="https://github.com/jonaaxsic">GitHub</a>
-</p>
+Analista Programador Full Stack • Desarrollo Web • Desarrollo de Software</p>
 
 ---
 
