@@ -35,7 +35,7 @@ Actualmente trabajo en proyectos relacionados con:
 **Bases de datos**
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
 </p>
 
 **DevOps y sistemas**
@@ -96,20 +96,14 @@ Aplicación de escritorio para la gestión de operaciones de un taller mecánico
 
 <p>
   <a href="https://github.com/jonaaxsic">
-    <img src="https://skillicons.dev/icons?i=github" height="30" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/jonathan-rodriguez-ba9330208">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:jonathan.anonisar@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" title="Gmail" />
   </a>
 </p>
-
-| | |
-|---|---|
-| **GitHub** | [github.com/jonaaxsic](https://github.com/jonaaxsic) |
-| **LinkedIn** | [linkedin.com/in/jonathan-rodriguez-ba9330208](https://www.linkedin.com/in/jonathan-rodriguez-ba9330208) |
-| **Email** | jonathan.anonisar@gmail.com |
