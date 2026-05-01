@@ -41,7 +41,7 @@ Actualmente trabajo en proyectos relacionados con:
 **DevOps y sistemas**
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,cloudflare,linux" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,cloudflare,linux,vercel" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ Actualmente trabajo en proyectos relacionados con:
 Sitio web profesional para un servicio de detailing automotriz. Presenta los servicios, galería de trabajos y canales de contacto del negocio.
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cloudflare" />
 </p>
 
 🔗 [Repositorio](https://github.com/jonaaxsic/Detailing_street_page) | 🌐 [Sitio en línea](https://detailingstreet.pages.dev/)
@@ -96,14 +96,24 @@ Aplicación de escritorio para la gestión de operaciones de un taller mecánico
 
 <p>
   <a href="https://github.com/jonaaxsic">
-    <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" height="30" />
   </a>
   &nbsp;
+  <a href="https://github.com/jonaaxsic">github.com/jonaaxsic</a>
+</p>
+
+<p>
   <a href="https://www.linkedin.com/in/jonathan-rodriguez-ba9330208">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
   &nbsp;
+  <a href="https://www.linkedin.com/in/jonathan-rodriguez-ba9330208">linkedin.com/in/jonathan-rodriguez-ba9330208</a>
+</p>
+
+<p>
   <a href="mailto:jonathan.anonisar@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" title="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" />
   </a>
+  &nbsp;
+  <a href="mailto:jonathan.anonisar@gmail.com">jonathan.anonisar@gmail.com</a>
 </p>
