@@ -112,6 +112,3 @@ Software especializado en operaciones de taller. Gestiona inventario de repuesto
   </a>
 </p>
 
-<p align="left">
-  <em>"Transformando código en soluciones seguras y eficientes."</em>
-</p>
