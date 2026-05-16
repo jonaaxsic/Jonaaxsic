@@ -1,13 +1,13 @@
 <h1 align="center">Hola, soy Jonathan Rodriguez</h1>
 <p align="center">
-Ingeniero de Software • Desarrollo Web • Desarrollo de Software
+Ingeniero en informática • Desarrollor Web • Desarrollor de Software
 </p>
 
 ---
 
 ## Sobre mí
 
-Soy Ingeniero de Software enfocado en el desarrollo de aplicaciones web y sistemas de software.
+Soy Ingeniero de en informática y analista programador enfocado en el desarrollo de aplicaciones web y sistemas de software.
 Me interesa construir sistemas funcionales, optimizar procesos y seguir aprendiendo nuevas tecnologías.
 
 Actualmente trabajo en proyectos relacionados con:
