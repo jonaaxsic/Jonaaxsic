@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Jonathan Rodriguez</h1>
 <p align="center">
-<strong>Analista Programador • Ingeniería en Informática • Desarrollador Full Stack</strong>
+<strong>Analista Programador • Ingeniero en Informática • Desarrollador de Software</strong>
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🧑🏻‍🦱 Sobre mí
 
-Soy **Analista Programador** con una formación sólida orientada a la **Ingeniería en Informática** y el **Desarrollo de Software**. Mi enfoque principal es el desarrollo **Full Stack**, donde combino la creación de interfaces modernas y funcionales en el Frontend con arquitecturas robustas y escalables en el Backend.
+Soy **Analista Programador** y estudiante de **Ingeniería en Informática** último año. Me defino como un desarrollador **Full Stack** versátil: me siento cómodo diseñando interfaces modernas en el Frontend, pero no me alejo del Backend ni de la gestión de bases de datos.
 
-Cuento con conocimientos en **Ciberseguridad**, lo que me permite aplicar buenas prácticas en la protección de datos y sistemas. Me apasiona resolver problemas complejos mediante la automatización, el diseño eficiente de bases de datos y la implementación de metodologías ágiles para garantizar entregas de calidad.
+Tengo una base sólida en **Ciberseguridad**, lo que me permite aplicar criterios de seguridad desde la fase de desarrollo. Manejo tanto bases de datos **SQL** como **NoSQL**, y utilizo metodologías ágiles para mantener mis proyectos ordenados y escalables. Mi objetivo es aprender y colaborar en el desarrollo de app
 
 ---
 
