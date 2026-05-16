@@ -1,119 +1,117 @@
 <h1 align="center">Hola, soy Jonathan Rodriguez</h1>
 <p align="center">
-Ingeniero en informática • Desarrollor Web • Desarrollor de Software
+<strong>Analista Programador • Ingeniería en Informática • Desarrollador Full Stack</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonathan-rodriguez-ba9330208">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jonathan.anonisar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## Sobre mí
+## 👨‍💻 Sobre mí
 
-Soy Ingeniero de en informática y analista programador enfocado en el desarrollo de aplicaciones web y sistemas de software.
-Me interesa construir sistemas funcionales, optimizar procesos y seguir aprendiendo nuevas tecnologías.
+Soy **Analista Programador** con una formación sólida orientada a la **Ingeniería en Informática** y el **Desarrollo de Software**. Mi enfoque principal es el desarrollo **Full Stack**, donde combino la creación de interfaces modernas y funcionales en el Frontend con arquitecturas robustas y escalables en el Backend.
 
-Actualmente trabajo en proyectos relacionados con:
-- Frontend
-- Backend
-- Bases de datos
-- Automatización
+Cuento con conocimientos en **Ciberseguridad**, lo que me permite aplicar buenas prácticas en la protección de datos y sistemas. Me apasiona resolver problemas complejos mediante la automatización, el diseño eficiente de bases de datos y la implementación de metodologías ágiles para garantizar entregas de calidad.
 
 ---
 
-## Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
 **Lenguajes**
-
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,cs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,cs&perline=7" />
+<br>
+<sub>HTML5, CSS3, JavaScript, TypeScript, Java, Python, C#</sub>
 </p>
 
-**Frameworks y herramientas**
-
+**Frameworks y Herramientas**
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,angular,tailwind,threejs,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,angular,tailwind,threejs,nodejs&perline=7" />
+<br>
+<sub>React, Next.js, NestJS, Angular, Tailwind, Three.js, Node.js</sub>
 </p>
 
-**Bases de datos**
-
+**Bases de Datos y Cloud**
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&perline=4" />
+<br>
+<sub>MySQL, PostgreSQL, MongoDB, Supabase</sub>
 </p>
 
-**DevOps y sistemas**
-
+**DevOps, Sistemas y Metodologías**
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,cloudflare,linux,vercel" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,cloudflare,linux,vercel&perline=6" />
+<br>
+<sub>Docker, Git, GitHub, Cloudflare, Linux, Vercel</sub>
 </p>
 
 ---
 
-## Proyectos Destacados
+## 🚀 Proyectos Destacados
 
 ### 🚗 Detailing Street
-Sitio web profesional para un servicio de detailing automotriz. Presenta los servicios, galería de trabajos y canales de contacto del negocio.
-
+Sitio web profesional para un servicio de estética automotriz. Incluye catálogo de servicios, galería dinámica y flujos de contacto optimizados.
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,cloudflare" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cloudflare" /><br>
+<sub>HTML, CSS, JS, Cloudflare</sub>
 </p>
-
-🔗 [Repositorio](https://github.com/jonaaxsic/Detailing_street_page) | 🌐 [Sitio en línea](https://detailingstreet.pages.dev/)
-
----
-
-### 📦 Inventario de Muebles
-Sistema de escritorio para la gestión de inventario de una mueblería. Permite controlar usuarios, tareas de bodega y procesos de venta, con acceso restringido según el rol del usuario autenticado (Administrador, Bodeguero, Ventas).
-
-<p>
-<img src="https://skillicons.dev/icons?i=java" />
-</p>
-
-🔗 [Repositorio](https://github.com/jonaaxsic/Inventario_de_Mubles)
+[📂 Repositorio](https://github.com/jonaaxsic/Detailing_street_page) | [🌐 Sitio en vivo](https://detailingstreet.pages.dev/)
 
 ---
 
 ### 🎓 Gestión Estudiantil
-Aplicación web para la gestión académica institucional que digitaliza procesos de asistencia, evaluaciones, anotaciones y comunicación entre docentes, estudiantes y apoderados.
-
+Plataforma integral para instituciones educativas. Digitaliza la asistencia, evaluaciones y centraliza la comunicación entre docentes y apoderados.
 <p>
-<img src="https://skillicons.dev/icons?i=angular,ts,python,django,mongodb,cloudflare" />
+<img src="https://skillicons.dev/icons?i=angular,ts,python,django,mongodb,cloudflare" /><br>
+<sub>Angular, TypeScript, Python, Django, MongoDB, Cloudflare</sub>
 </p>
+[📂 Repositorio](https://github.com/jonaaxsic/Gestion-Estudiantil) | [🌐 Sitio en vivo](https://gestionestudiantil.pages.dev/login)
 
-🔗 [Repositorio](https://github.com/jonaaxsic/Gestion-Estudiantil) | 🌐 [Sitio en línea](https://gestionestudiantil.pages.dev/login)
+---
+
+### 📦 Inventario de Muebles
+Sistema de escritorio robusto para la gestión de stocks. Implementa control de roles (Admin, Bodega, Ventas) para garantizar la integridad de los procesos de venta.
+<p>
+<img src="https://skillicons.dev/icons?i=java" /><br>
+<sub>Java</sub>
+</p>
+[📂 Repositorio](https://github.com/jonaaxsic/Inventario_de_Mubles)
 
 ---
 
 ### 🔧 Taller Mecánico
-Aplicación de escritorio para la gestión de operaciones de un taller mecánico. Incluye módulos para la creación de usuarios, venta y stock de repuestos, gestión de informes y servicios internos.
-
+Software especializado en operaciones de taller. Gestiona inventario de repuestos, generación de informes técnicos y administración de usuarios.
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,mysql" />
+<img src="https://skillicons.dev/icons?i=dotnet,mysql" /><br>
+<sub>.NET, MySQL</sub>
 </p>
-
-🔗 [Repositorio](https://github.com/jonaaxsic/Taller_Mecanico)
+[📂 Repositorio](https://github.com/jonaaxsic/Taller_Mecanico)
 
 ---
 
-## Contacto
+## 📫 Contacto 
 
 <p>
   <a href="https://github.com/jonaaxsic">
-    <img src="https://skillicons.dev/icons?i=github" height="30" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
-  &nbsp;
-  <a href="https://github.com/jonaaxsic">github.com/jonaaxsic</a>
-</p>
-
-<p>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jonathan-rodriguez-ba9330208">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/jonathan-rodriguez-ba9330208">linkedin.com/in/jonathan-rodriguez-ba9330208</a>
+  &nbsp;&nbsp;
+  <a href="mailto:jonathan.anonisar@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+  </a>
 </p>
 
-<p>
-  <a href="mailto:jonathan.anonisar@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30" />
-  </a>
-  &nbsp;
-  <a href="mailto:jonathan.anonisar@gmail.com">jonathan.anonisar@gmail.com</a>
+<p align="left">
+  <em>"Transformando código en soluciones seguras y eficientes."</em>
 </p>
