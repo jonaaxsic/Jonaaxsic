@@ -16,9 +16,9 @@
 
 ## 🧑🏻‍🦱 Sobre mí
 
-Soy **Analista Programador** y estudiante de **Ingeniería en Informática** último año. Me defino como un desarrollador **Full Stack** versátil: me siento cómodo diseñando interfaces modernas en el Frontend, pero no me alejo del Backend ni de la gestión de bases de datos.
+Soy **Analista Programador** y estudiante de **Ingeniería en Informática** en proceso de Titulación. Me defino como un desarrollador **Full Stack** versátil: me siento cómodo diseñando interfaces modernas en el Frontend, pero no me alejo del Backend ni de la gestión de bases de datos.
 
-Tengo una base sólida en **Ciberseguridad**, lo que me permite aplicar criterios de seguridad desde la fase de desarrollo. Manejo tanto bases de datos **SQL** como **NoSQL**, y utilizo metodologías ágiles para mantener mis proyectos ordenados y escalables. Mi objetivo es aprender y colaborar en el desarrollo de app
+Tengo una base sólida en **Programación**. Manejo tanto bases de datos **SQL** como **NoSQL**, y utilizo metodologías ágiles para mantener mis proyectos ordenados y escalables. Mi objetivo es siempre aprender y colaborar en el desarrollo de apps
 
 ---
 
