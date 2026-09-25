@@ -14,9 +14,9 @@
 
 ---
 
-## 🧑🏻‍🦱 Sobre mí
+## 🧑 Sobre mí
 
-Soy **Analista Programador** y estudiante de **Ingeniería en Informática** en proceso de Titulación. Me defino como un desarrollador **Full Stack** versátil: me siento cómodo diseñando interfaces modernas en el Frontend, pero no me alejo del Backend ni de la gestión de bases de datos.
+Soy Analista Programador titulado del Instituto IP Chile con 4 años de formación. Me Gusta aportar y colaborar en proyectos que ayuden o aporten valor a la sociedad, con el objetivo de seguir creciendo y aprendiendo en el mundo del desarrollo de software
 
 Tengo una base sólida en **Programación**. Manejo tanto bases de datos **SQL** como **NoSQL**, y utilizo metodologías ágiles para mantener mis proyectos ordenados y escalables. Mi objetivo es siempre aprender y colaborar en el desarrollo de apps
 
